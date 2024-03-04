@@ -1,1 +1,1 @@
-# spring-security-docker-practice
+# security-practice
