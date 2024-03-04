@@ -1,5 +1,5 @@
 # security-practice
-회원가입 및 로그인 연습
+회원가입 및 로그인 연습  
 배포 : [security-practice 사이트](http://ec2-43-203-199-47.ap-northeast-2.compute.amazonaws.com:8081/)
   
 ## 프로젝트 목적
