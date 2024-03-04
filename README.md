@@ -3,7 +3,7 @@
 배포 : [security-practice 사이트](http://ec2-43-203-199-47.ap-northeast-2.compute.amazonaws.com:8081/)
   
 ## 프로젝트 목적
-이유 : Spring Security5에서 Spring Security6로 넘어가면서 변경된 사항을 습득하고 적용하기 위함
+이유 : Spring Security5에서 Spring Security6로 넘어가면서 변경된 사항을 습득하고 적용하기 위함  
 목적 : 회원가입 및 로그인 기능 구현
    
 ## 어려웠던 점
